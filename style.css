@@ -7,3 +7,13 @@ body {
   align-items: center;
   font-family: monospace;
 }
+
+.container {
+  background: #e3f6ff;
+  padding: 20px;
+  box-shadow: 0 6px 10px rgba(0, 0, 0, 0.4);
+  border-radius: 15px;
+  width: 85%;
+  text-align: center;
+  color: #b05a7a;
+}
