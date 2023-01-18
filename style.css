@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  background: linear-gradient(to left bottom, #dddddd, #658864, #dddddd);
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: monospace;
+}
